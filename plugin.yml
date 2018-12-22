@@ -1,0 +1,12 @@
+name: LinarisLobby
+version: 0.1
+main: net.neferett.lobby.Main
+author: Neferett
+depend: [PermissionsEx, Citizens, HolographicDisplays, MVdWPlaceholderAPI]
+commands:
+  bungeenpc:
+  setspawn:
+  portails:
+  hide:
+  fly:
+  spawn:
